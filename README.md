@@ -5,7 +5,7 @@ Jujutsu Kaisen follows Yuji Itadori, a high school student with incredible physi
 
 Main Characters:
 
-Yuji Itadori - Protagonist with immense physical strength and a kind heart
-Megumi Fushiguro - A serious and talented Jujutsu sorcerer
-Nobara Kugisaki - A strong-willed and determined girl skilled in using a cursed weapon
-Satoru Gojo - A powerful sorcerer and Yuji's mentor, known for his exceptional abilities
+1. Yuji Itadori - Protagonist with immense physical strength and a kind heart
+2. Megumi Fushiguro - A serious and talented Jujutsu sorcerer
+3. Nobara Kugisaki - A strong-willed and determined girl skilled in using a cursed weapon
+4. Satoru Gojo - A powerful sorcerer and Yuji's mentor, known for his exceptional abilities
